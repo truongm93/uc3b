@@ -1,6 +1,6 @@
 ## stuff to fix
 1. Add private endpoint for all services 
-2. Change webapp from windows to linux
+2. Change webapp from windows to linux + extra config required (some kind of auth?) to make openai use deployed webapp.
 3. Debug issue adding data source with system assigned identity with openai
 
 ## Install Terraform
