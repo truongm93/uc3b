@@ -1,7 +1,7 @@
 ## stuff to fix
-Add private endpoint for all services 
-Change webapp from windows to linux
-Debug issue adding data source with system assigned identity with openai
+1. Add private endpoint for all services 
+2. Change webapp from windows to linux
+3. Debug issue adding data source with system assigned identity with openai
 
 ## Install Terraform
 1. Download Terraform binaries here: https://developer.hashicorp.com/terraform/install
