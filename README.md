@@ -1,3 +1,8 @@
+## stuff to fix
+Add private endpoint for all services 
+Change webapp from windows to linux
+Debug issue adding data source with system assigned identity with openai
+
 ## Install Terraform
 1. Download Terraform binaries here: https://developer.hashicorp.com/terraform/install
 2. Make sure terraform binary is available on your PATH.
