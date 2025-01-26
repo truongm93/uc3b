@@ -2,6 +2,7 @@
 1. Add private endpoint for all services 
 2. Change webapp from windows to linux + extra config required (some kind of auth?) to make openai use deployed webapp.
 3. Debug issue adding data source with system assigned identity with openai
+4. deploy and configure PBI
 
 ## Install Terraform
 1. Download Terraform binaries here: https://developer.hashicorp.com/terraform/install
